@@ -21,8 +21,7 @@ int main () {
     } else {
         cout << "Please enter C or F ";
 
-    }
-   
+    }   
     return 0;
 
 }
