@@ -1,5 +1,5 @@
 #include <iostream>
-#include <string>  // Needed for the string type
+#include <string>
 using namespace std;
 
 int main() {
