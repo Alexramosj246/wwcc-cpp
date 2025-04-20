@@ -12,16 +12,15 @@ int main () {
     cout << "Enter unit (C for celsius, F for Fahrenheit): ";
     cin >> unit;
     
-    if (unit == 'C' ) {
+    if (unit == 'F' ) {
         double C = (temperature - 32) * 5.0 / 9.0;
-        cout << C << "C";
-    } else if (unit == 'F' ) {
+        cout << C << "C°";
+    } else if (unit == 'C' ) {
         double F = (temperature * 9.0 / 5.0) + 32;
-        cout << F << "F";
+        cout << F << "F°";
     } else {
         cout << "Please enter C or F ";
 
     }   
     return 0;
-
 }
