@@ -1,0 +1,14 @@
+# 0 0
+I hate it here. Let's get moving!
+# 1 1
+A couple steps at a time!
+# 2 2
+Was that a rat?! Let's move quickly!
+# 3 3
+We're going upstairs. I swear I saw a ghost!
+# 4 4
+This looks like the right way.
+# 5 5
+Door is locked.
+# 5 6
+Out the window we go!
