@@ -1,0 +1,6 @@
+Product: Laptop     Category: Electronics   Units sold: 5     Price: 899.99
+Product: Mouse      Category: Electronics   Units sold: 25    Price: 29.99        
+Product: Monitor    Category: Electronics   Units sold: 3     Price: 299.99  
+Product: Keyboard   Category: Electronics   Units sold: 12    Price: 79.99
+Product: Notebook   Category: Stationery    Units sold: 100   Price: 4.99
+Product: Pen        Category: Stationery    Units sold: 200   Price: 1.99
